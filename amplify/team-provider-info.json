@@ -1,0 +1,41 @@
+{
+    "storage": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-pixen-storage-164722-authRole",
+            "UnauthRoleArn": "arn:aws:iam::067565947679:role/amplify-pixen-storage-164722-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::067565947679:role/amplify-pixen-storage-164722-authRole",
+            "Region": "ap-south-1",
+            "DeploymentBucketName": "amplify-pixen-storage-164722-deployment",
+            "UnauthRoleName": "amplify-pixen-storage-164722-unauthRole",
+            "StackName": "amplify-pixen-storage-164722",
+            "StackId": "arn:aws:cloudformation:ap-south-1:067565947679:stack/amplify-pixen-storage-164722/e2864f30-6840-11ea-bcc5-02abaae9da36",
+            "AmplifyAppId": "dpaxq7ev794e3"
+        }
+    },
+    "px": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-pixen-px-171646-authRole",
+            "UnauthRoleArn": "arn:aws:iam::067565947679:role/amplify-pixen-px-171646-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::067565947679:role/amplify-pixen-px-171646-authRole",
+            "Region": "ap-south-1",
+            "DeploymentBucketName": "amplify-pixen-px-171646-deployment",
+            "UnauthRoleName": "amplify-pixen-px-171646-unauthRole",
+            "StackName": "amplify-pixen-px-171646",
+            "StackId": "arn:aws:cloudformation:ap-south-1:067565947679:stack/amplify-pixen-px-171646/fc134e90-6844-11ea-8306-0695265dabc8",
+            "AmplifyAppId": "dpaxq7ev794e3"
+        }
+    },
+    "envirement": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-pixen-envirement-190750-authRole",
+            "UnauthRoleArn": "arn:aws:iam::067565947679:role/amplify-pixen-envirement-190750-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::067565947679:role/amplify-pixen-envirement-190750-authRole",
+            "Region": "ap-south-1",
+            "DeploymentBucketName": "amplify-pixen-envirement-190750-deployment",
+            "UnauthRoleName": "amplify-pixen-envirement-190750-unauthRole",
+            "StackName": "amplify-pixen-envirement-190750",
+            "StackId": "arn:aws:cloudformation:ap-south-1:067565947679:stack/amplify-pixen-envirement-190750/7fdd42d0-6854-11ea-a90c-06a559b381a6",
+            "AmplifyAppId": "dpaxq7ev794e3"
+        }
+    }
+}

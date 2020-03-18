@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pixen</string>
+    <string name="upload">Upload</string>
+    <string name="share">Share</string>
+    <string name="save_video">Save Video</string>
+    <string name="popular">Popular</string>
+    <string name="latest">Latest</string>
+
+    <string name="app_id">728615400528729</string>
+</resources>

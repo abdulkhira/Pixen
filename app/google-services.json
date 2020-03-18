@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "998615427208",
+    "firebase_url": "https://pixen-6f797.firebaseio.com",
+    "project_id": "pixen-6f797",
+    "storage_bucket": "pixen-6f797.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998615427208:android:20e0e8df5aa607f422573d",
+        "android_client_info": {
+          "package_name": "com.pixen.videos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998615427208-31cbdlluoc8shdu6v9um4o0u2f5rb2l6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pixen.videos",
+            "certificate_hash": "87d760457b6c063106300376af34d6f8e3c283e3"
+          }
+        },
+        {
+          "client_id": "998615427208-h05v1e629loevcmv2bfb6p8cpb2po4p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOxr3Fe_JX7yFfBeiiSL9JKif4JCbvMdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998615427208-h05v1e629loevcmv2bfb6p8cpb2po4p0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
